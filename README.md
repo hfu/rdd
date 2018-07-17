@@ -22,3 +22,6 @@ This repository is not even a script. But for the actual case, something like th
 ```console
 $ node index.js 1 2 3
 ```
+
+## see also
+- [README driven development (RDD)](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
